@@ -1,0 +1,16 @@
+/deep/.el-tabs {
+  .el-tabs__item {
+    height: 24px;
+    line-height: 24px;
+    color: #000000;
+  }
+  .el-tabs__nav-wrap {
+    padding: 0px 30px;
+    &::after {
+      background-color: #000000;
+    }
+  }
+  .el-tab-pane {
+    padding: 10px 30px;
+  }
+}

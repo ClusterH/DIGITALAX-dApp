@@ -1,0 +1,10 @@
+#app {
+  padding-left: 30px;
+  padding-right: 60px;
+}
+section#header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding-top: 10px;
+}
